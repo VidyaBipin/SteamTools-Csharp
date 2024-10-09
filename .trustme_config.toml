@@ -1,5 +1,4 @@
 [scan_config]
 ignore = [
-    'Currency Converter/*',
-    'Facebook Video Downloader/main.py'
+    '**/User*.cs'
 ]
