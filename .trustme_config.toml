@@ -1,5 +1,4 @@
 [scan_config]
 ignore = [
-    'src/BD.WTTS.Client.Avalonia/UI/Styling/Controls/*',
-    '**/BD.WTTS.Client.AppHost/'
+    
 ]
